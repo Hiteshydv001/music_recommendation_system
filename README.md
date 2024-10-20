@@ -4,6 +4,9 @@ Cool Music Recommender
 **Deployment Link:** [Demo at Streamlit](https://content-based-movie-recommend.streamlit.app/)
 =========================================
 
+![Screenshot](https://github.com/Hiteshydv001/music_recommendation_system/blob/main/Screenshot%202024-10-21%20013114.png)
+
+
 Overview
 --------
 
