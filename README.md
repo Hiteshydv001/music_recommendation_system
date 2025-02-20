@@ -23,6 +23,21 @@ Features
 *   **User-Friendly Interface**: A modern and intuitive UI designed using Streamlit for an engaging user experience.
     
 *   **Music Metadata**: Displays album covers, song titles, and Spotify links for easy access to music.
+
+Structure:
+----------
+
+```
+Directory structure:
+└── hiteshydv001-music_recommendation_system/
+    ├── README.md
+    ├── Model Training.ipynb
+    ├── app.py
+    ├── df.pkl.gz
+    ├── requirements.txt
+    └── similarity.pkl.gz
+
+```
     
 
 Technologies Used
